@@ -2023,7 +2023,7 @@ input, select, textarea {
 
 	header h4 + p,
 	header h5 + p,
-	header h6 + p {
+	 h6 + p {
 		font-size: 0.9em;
 		line-height: 1.5em;
 		margin-top: -0.6em;
@@ -3243,4 +3243,8 @@ input, select, textarea {
 				padding: 2em 1em 2em 1em ;
 			}
 
+	}
+
+	.c {
+		transform: rotate(45deg);
 	}
